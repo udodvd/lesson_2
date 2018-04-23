@@ -5,7 +5,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-   -webkit-perspective: 200px; /* Safari 4-8  */
+   -webkit-perspective: 200px; 
     perspective: 200px;
 }
 .flip_card {
@@ -16,7 +16,6 @@
   height: 100%;
   border-radius: 10px;
   transform-style: preserve-3d;
- 
 }
 .front_card {
   position: absolute;
